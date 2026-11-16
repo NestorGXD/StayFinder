@@ -29,7 +29,7 @@ export default function RootLayout({ children }) {
         </main>
 
         <footer className="bg-white border-t py-6 text-center text-sm text-gray-500">
-          StayFinder — Práctica de Analítica Web GA4
+          Nestor Andre García Magdaleno
         </footer>
 
         {gaId && <GoogleAnalytics gaId={gaId} />}
